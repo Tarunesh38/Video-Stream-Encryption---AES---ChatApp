@@ -55,8 +55,8 @@
 ### Workflow
 
 <div align="center">
-  <img src="https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/eaf795aa-186c-45e8-b812-aea77fcda1a0" width="500" alt="Image 1">
   <img src="https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/fdf67493-8332-4a97-9177-69c48b28d155" width="500" alt="Image 2">
+  <img src="https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/eaf795aa-186c-45e8-b812-aea77fcda1a0" width="500" alt="Image 1">
 </div>
 
 <div align="center">
