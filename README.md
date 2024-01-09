@@ -65,7 +65,7 @@
 
 ### Images
 
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5e8fa6ec-2f66-42f7-afff-3c981bed8b6f)
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bfbe127d-a19c-4860-b760-6ac3efa35c4a)
 ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/98b3b020-b91e-4893-b972-e30a34e6c7be) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/3593e70c-3002-44fd-ae80-f298ed5771ee)
 
 
@@ -79,7 +79,23 @@
 pip install pycryptodomex
 ```
 
-###Running the app
+### Running the app
 - Run App.py
 - Select Receive option from the GUI to receive data (acts as the server, use the IP Address of the receiver system).
 - Select Send option with the Receiver IP Address.
+
+### WorkFlow
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/be320698-6ad1-41f6-840c-0598f84746bc)
+
+### Images
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/c57ced4c-f014-4321-998c-05ab1dc6a6ec)
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bef748c0-086b-4cb4-905a-5a0fcb58989d)
+
+
+## References
+- https://www.vplayed.com/blog/aes-video-encryption-for-streaming/
+- https://www.vdocipher.com/blog/2020/11/aes-128-encryption-video-drm-secure/
+- https://www.backlight.co/blog/streaming/how-to-encrypt-video-files-with-aes-encryption
+- https://www.haivision.com/blog/all/video-security-aes-encryption/
+- https://www.dacast.com/blog/aes-video-encryption/#:~:text=The%20AES%20standard%20uses%20key,see%20the%20original%20unencrypted%20data.
+- https://blog.video.ibm.com/streaming-video-tips/aes-video-encryption-256-vs-128-bit/
