@@ -67,6 +67,7 @@
 
 <div align="center">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea">
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/85503f25-e8ca-4a07-9462-17338b21f165">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bfbe127d-a19c-4860-b760-6ac3efa35c4a">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e"> 
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d"> 
@@ -98,7 +99,7 @@ pip install pycryptodomex
 <div align="center">
 <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/c57ced4c-f014-4321-998c-05ab1dc6a6ec" width="500">
 <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bef748c0-086b-4cb4-905a-5a0fcb58989d" width="500">
-
+</div>
 
 ## References
 - https://www.vplayed.com/blog/aes-video-encryption-for-streaming/
