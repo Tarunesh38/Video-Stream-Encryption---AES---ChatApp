@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea">
-  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/85503f25-e8ca-4a07-9462-17338b21f165">
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/4ab45738-35c7-4370-b572-98996007697f">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bfbe127d-a19c-4860-b760-6ac3efa35c4a">
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e"> 
   <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d"> 
