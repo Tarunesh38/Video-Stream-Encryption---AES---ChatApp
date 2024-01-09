@@ -52,6 +52,21 @@
   - Send Text Messages: Press the green button or hit 'Enter' to send text messages. Emojis are also supported.
 - **Leaving the Meeting:** To exit the meeting, click on the 'X' button.
 
+### Workflow
+
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/eaf795aa-186c-45e8-b812-aea77fcda1a0)
+![Working - Methodology - Flowchart](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5c31d13c-0222-45e6-8ce9-ce144b3406e9)
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/fdf67493-8332-4a97-9177-69c48b28d155)
+
+
+### Images
+
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5e8fa6ec-2f66-42f7-afff-3c981bed8b6f)
+![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/98b3b020-b91e-4893-b972-e30a34e6c7be) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/3593e70c-3002-44fd-ae80-f298ed5771ee)
+
+
+
+
 ## Python Implementation
 
 ### Install the requirements
