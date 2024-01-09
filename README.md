@@ -66,8 +66,12 @@
 ### Images
 
 <div align="center">
-  ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bfbe127d-a19c-4860-b760-6ac3efa35c4a)
-  ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/98b3b020-b91e-4893-b972-e30a34e6c7be) ![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/3593e70c-3002-44fd-ae80-f298ed5771ee)
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/e7b68f24-d78a-42c8-838c-21aaf20fa4ea">
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bfbe127d-a19c-4860-b760-6ac3efa35c4a">
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/53937411-aa0c-4125-914d-6ed0ec0cbf9e"> 
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/83a83daa-c10a-4b59-b3f9-d51c5502b72d"> 
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/98b3b020-b91e-4893-b972-e30a34e6c7be"> 
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/3593e70c-3002-44fd-ae80-f298ed5771ee">
 </div>
 
 
@@ -85,11 +89,15 @@ pip install pycryptodomex
 - Select Send option with the Receiver IP Address.
 
 ### WorkFlow
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/be320698-6ad1-41f6-840c-0598f84746bc)
+<div align="center">
+  <img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/be320698-6ad1-41f6-840c-0598f84746bc" width="500">
+</div>  
 
 ### Images
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/c57ced4c-f014-4321-998c-05ab1dc6a6ec)
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bef748c0-086b-4cb4-905a-5a0fcb58989d)
+
+<div align="center">
+<img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/c57ced4c-f014-4321-998c-05ab1dc6a6ec" width="500">
+<img src = "https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/bef748c0-086b-4cb4-905a-5a0fcb58989d" width="500">
 
 
 ## References
