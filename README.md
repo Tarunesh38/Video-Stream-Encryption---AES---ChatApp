@@ -59,7 +59,7 @@
   <img src="https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/fdf67493-8332-4a97-9177-69c48b28d155" width="400" alt="Image 2">
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <img src="https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5c31d13c-0222-45e6-8ce9-ce144b3406e9" width="700" alt="Flowchart">
 </div>
 
