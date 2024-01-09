@@ -54,9 +54,12 @@
 
 ### Workflow
 
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/eaf795aa-186c-45e8-b812-aea77fcda1a0)
-![Working - Methodology - Flowchart](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5c31d13c-0222-45e6-8ce9-ce144b3406e9)
-![image](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/fdf67493-8332-4a97-9177-69c48b28d155)
+![Working - Methodology - Flowchart](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/5c31d13c-0222-45e6-8ce9-ce144b3406e9){:width="500px"}
+
+![Image 1](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/eaf795aa-186c-45e8-b812-aea77fcda1a0){:width="500px"}
+
+![Image 2](https://github.com/Tarunesh38/Video-Stream-Encryption-AES-ChatApp/assets/119646778/fdf67493-8332-4a97-9177-69c48b28d155){:width="500px"}
+
 
 
 ### Images
